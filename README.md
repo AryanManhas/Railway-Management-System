@@ -2,7 +2,7 @@
 A Code Repo for Railway Management System
 
 
-### **Railway Management System – Professional Description**
+### **Railway Management System**
 
 A **Railway Management System (RMS)** is an integrated software solution designed to streamline, automate, and optimize various operations within the railway industry. It serves as a centralized platform that manages core functions such as **ticket booking and reservations, train scheduling, passenger information, cargo and freight management, resource allocation, crew management, and real-time monitoring of trains**.
 
