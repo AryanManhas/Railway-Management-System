@@ -13,5 +13,3 @@ From a customer perspective, an RMS provides **user-friendly interfaces for tick
 In essence, a Railway Management System is a **comprehensive digital framework** that enables railway authorities to deliver efficient, transparent, and customer-centric services while optimizing operational costs and ensuring sustainable growth in the transport sector.
 
 ---
-
-Do you want me to make this **academic-style** (for projects/reports) or **business-style** (for resume/portfolio/internship)?
